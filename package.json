@@ -1,0 +1,11 @@
+{
+  "name": "webserver-practica",
+  "version": "1.0.0",
+  "description": "Servidor web Node.js con página de belleza (Bissu, Saniye, Prosa)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Michel Carrau, Daniel Chan",
+  "license": "ISC"
+}
